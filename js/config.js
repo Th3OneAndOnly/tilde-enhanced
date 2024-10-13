@@ -295,13 +295,12 @@ const CONFIG = {
   /**
    * The delimiter between the hours and minutes on the clock.
    */
-  clockDelimiter: ' ',
+  clockDelimiter: '.',
 
   /**
    * Show a twenty-four-hour clock instead of a twelve-hour clock with AM/PM.
    */
-  twentyFourHourClock: true,
-
+  twentyFourHourClock: false,
   /**
    * File extension for icon images
    */
